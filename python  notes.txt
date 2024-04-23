@@ -1,0 +1,23 @@
+===============================
+python notes
+===============================
+1) stages :
+Data type & operators
+Data Structure
+Control flow
+Functions
+Scripting
+Module = is the access of any other code.
+two type of module:
+1)Built in module.
+2)External Module 
+
+write python on CMD & terminal , so to open / enterd REPL (Read Evaluate Print Loop)
+
+"\n" is the line breake
+
+print() is the built-in-function in python
+
+# , ''' ''' , """  """ are use to comments
+
+\" content \" it's backslash content inwhich you write anything in this qutution 
