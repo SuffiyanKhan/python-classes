@@ -18,6 +18,52 @@ write python on CMD & terminal , so to open / enterd REPL (Read Evaluate Print L
 
 print() is the built-in-function in python
 
-# , ''' ''' , """  """ are use to comments
+# , ''' ''' , """  """ are use to comments and used for comment is ctl + / (forward slach)
 
-\" content \" it's backslash content inwhich you write anything in this qutution 
+\" content \" it's backslash content inwhich you write anything in this qutution
+
+DATA TYPE 
+
+1)String === it's represent is " ".
+2)Integer/Number === it's represent is only numbers in which single number, decimals etc.
+In this data type more types of integer.
+1. Numeric/Integer.
+2.Float. === 1.2 , 2.5345,so own. basically in  this type of integer we are use decimals.  
+3.Complex. === if we used to complex data type of integer so we used to built-in-function which is complex() and inside the 
+function we entered those number which is complex.
+3)Boolean === in which we used True or False for the condition.
+4)Mutation === in this mutation is like array & array in the array. and mutation also changed it's mean mutaion means changedable thing.
+it's represent is [].For example : [123, 2.562, "say hi",true, ['lion', "birds" , "etc"] ]
+5)Inmutation === is not changeable thing. it's represnet is (). For example : ((123, 2.562, "say hi",true), ('lion', "birds" , "etc") ).behave is like object.
+6)Mapped data === is like object and represent is {}.in this key values work for example : "name":"hi", etc and key values in string and also accept all type of data 
+ 
+ 
+
+
+type() we are  using for check any datatype  so we used to type().
+
+ARITHMETIC OPERATORS:
++ === addition === 5+3.
+- === subtract === 5-3.
+* === multiplication === 5*3.
+/ === division === 5/3.
+** === exponational === 5**3. it's mean 5x5x5.
+// === floor division === 5//3.it's mean 2.5 and i used // so output is 2 and reduced pointes all value. 
+% === modulus === 5%3.
+
+
+TYPECASTING :
+
+Two type of typecasting.
+1) Explicit conversion (Explicit type casting in python).
+            In Explicit conversion this function are included ins(),float(),hex(),oct(),str()etc. Basically this conversion is convert in to
+this function like string number convert into integer , float or integer convert into string etc. 
+2) Implicit conversion (Implicit type casting in python).
+
+
+Taking User Input:
+input() input by default as a string behave. if you taking a number from user from input so input give you by default string as such JavaScript    
+so then we are convert input into integer by using int() or float()
+
+
+
